@@ -1,0 +1,8 @@
+﻿  main.cpp
+h:\projects\c++\handelbrot engine\handelbrot engine\main.cpp(88): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  mandelbrot_cpu.cpp
+  engine.cpp
+  Handelbrot Engine.vcxproj -> H:\Projects\C++\Handelbrot Engine\bin\x64\Debug\Handelbrot Engine.exe
